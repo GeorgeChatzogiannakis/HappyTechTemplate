@@ -1,0 +1,16 @@
+﻿
+A TEMPLATE/feedback
+
+- a header containing relevant information 
+  > about the person the feedback is for (User)
+  > the person giving the feedback and (Applicant)
+  > what the FEEDBACK/template for (CV, interview, technical interview, etc) 
+- a number of sections. 
+
+A section has 
+
+- a title, 
+- a list of pairs of codes 
+- the comments to be included in the feedback. 
+
+* The template can be used to review the applications for one or more positions advertised. 
